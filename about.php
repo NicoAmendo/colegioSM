@@ -43,25 +43,25 @@
     <div class="container d-flex justify-content-between align-items-center">
 
       <div class="logo">
-        <h1 class="text-light"><a href="index.html"><span> <small style="font-size:12px;"> colegio </small></span>Santa María</a></h1>
+        <h1 class="text-light"><a href="index.php"><span> <small style="font-size:12px;"> colegio </small></span>Santa María</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+        <!-- <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
 
       <nav id="navbar" class="navbar">
         <ul>
-            <li><a class="active " href="index.html">Home</a></li>
-            <!-- <li><a href="about.html">Institucional</a></li> -->
-            <li><a href="portfolio.html">Comunicados</a></li>
-            <li><a href="about.html">Nuestra Historia</a></li>
-            <!-- <li><a href="team.html">Team</a></li>
-            <li><a href="blog.html">Blog</a></li> -->
+            <li><a class="active " href="index.php">Home</a></li>
+            <!-- <li><a href="about.php">Institucional</a></li> -->
+            <li><a href="portfolio.php">Comunicados</a></li>
+            <li><a href="about.php">Nuestra Historia</a></li>
+            <!-- <li><a href="team.php">Team</a></li>
+            <li><a href="blog.php">Blog</a></li> -->
             <li class="dropdown"><a href="#"><span>Institucional</span> <i class="bi bi-chevron-down"></i></a>
               <ul>
-                <li><a href="ideario-prov.html">Ideario</a></li>
+                <li><a href="ideario-prov.php">Ideario</a></li>
                 <li class="dropdown"><a href="#"><span>Autoridades</span> <i class="bi bi-chevron-right"></i></a>
                   <ul>
-                    <li><a href="team.html">Staff docente</a></li>
+                    <li><a href="team.php">Staff docente</a></li>
                     <!-- <li><a href="#">Deep Drop Down 2</a></li>
                     <li><a href="#">Deep Drop Down 3</a></li>
                     <li><a href="#">Deep Drop Down 4</a></li>
@@ -73,7 +73,7 @@
                 <li><a href="#">Drop Down 4</a></li> -->
               </ul>
             </li>
-            <li><a href="contact.html">Contacto</a></li>
+            <li><a href="contact.php">Contacto</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -90,7 +90,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Algo de nosotros...</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>Nuestra Historia</li>
           </ol>
         </div>

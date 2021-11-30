@@ -45,25 +45,25 @@
     <div class="container d-flex justify-content-between align-items-center">
 
       <div class="logo">
-        <h1 class="text-light"><a href="index.html"><span> <small style="font-size:12px;"> colegio </small></span>Santa María</a></h1>
+        <h1 class="text-light"><a href="index.php"><span> <small style="font-size:12px;"> colegio </small></span>Santa María</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+        <!-- <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="active " href="index.html">Home</a></li>
-          <!-- <li><a href="about.html">Institucional</a></li> -->
-          <li><a href="portfolio.html">Comunicados</a></li>
-          <li><a href="about.html">Nuestra Historia</a></li>
-          <!-- <li><a href="team.html">Team</a></li>
-          <li><a href="blog.html">Blog</a></li> -->
+          <li><a class="active " href="index.php">Home</a></li>
+          <!-- <li><a href="about.php">Institucional</a></li> -->
+          <li><a href="portfolio.php">Comunicados</a></li>
+          <li><a href="about.php">Nuestra Historia</a></li>
+          <!-- <li><a href="team.php">Team</a></li>
+          <li><a href="blog.php">Blog</a></li> -->
           <li class="dropdown"><a href="#"><span>Institucional</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="ideario-prov.html">Ideario</a></li>
+              <li><a href="ideario-prov.php">Ideario</a></li>
               <li class="dropdown"><a href="#"><span>Autoridades</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
-                  <li><a href="team.html">Staff docente</a></li>
+                  <li><a href="team.php">Staff docente</a></li>
                   <!-- <li><a href="#">Deep Drop Down 2</a></li>
                   <li><a href="#">Deep Drop Down 3</a></li>
                   <li><a href="#">Deep Drop Down 4</a></li>
@@ -75,7 +75,7 @@
               <li><a href="#">Drop Down 4</a></li> -->
             </ul>
           </li>
-          <li><a href="contact.html">Contacto</a></li>
+          <li><a href="contact.php">Contacto</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -102,7 +102,7 @@
         <div class="carousel-container">
           <h2 class="animate__animated animate__fadeInDown">Valores</h2>
           <p class="animate__animated animate__fadeInUp">La práctica de las virtudes y principios evangélicos se convierten en referencia y fundamento permanente de nuestra misión, movilizando el Proyecto Educativo.</p>
-          <a href="ideario-prov.html" class="btn-get-started animate__animated animate__fadeInUp">Ver ideario</a>
+          <a href="ideario-prov.php" class="btn-get-started animate__animated animate__fadeInUp">Ver ideario</a>
         </div>
       </div>
 
@@ -111,7 +111,7 @@
         <div class="carousel-container">
           <h2 class="animate__animated animate__fadeInDown">¿Quienes somos?</h2>
           <p class="animate__animated animate__fadeInUp">Somos una institución educativa católica de gestión privada perteneciente al Obispado Zárate Campana, que brinda una educación integral, para al progreso e inclusión de los niños y jóvenes de la comunidad de Belén de Escobar.</p>
-          <a href="team.html" class="btn-get-started animate__animated animate__fadeInUp">Ver staff</a>
+          <a href="team.php" class="btn-get-started animate__animated animate__fadeInUp">Ver staff</a>
         </div>
       </div>
 
@@ -145,7 +145,7 @@
             <div class="icon-box icon-box-cyan">
               <!-- <div class="icon"><i class="bx bx-file"></i></div> -->
               <div class="icon"><i class="bi bi-trophy"></i></div>
-              <h4 class="title"><a href="./portfolio-details.html">¡Ganamos!</a></h4>
+              <h4 class="title"><a href="./portfolio-details.php">¡Ganamos!</a></h4>
               <p class="description">El nivel inicial fue distinguido por el programa "Escuelas por el Ambiente".<br>¡Seguimos construyendo juntos un mundo mejor!</p>
             </div>
           </div>
@@ -153,8 +153,8 @@
           <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box icon-box-green">
               <div class="icon"><i class="bi bi-person-check"></i></div>
-              <h4 class="title"><a href="./team.html">Docentes</a></h4>
-              <p class="description">¿Conocés los docentes que forman parte de nuestra institución?<br>Click <a href="./team.html">acá</a> para verlos.</p>
+              <h4 class="title"><a href="./team.php">Docentes</a></h4>
+              <p class="description">¿Conocés los docentes que forman parte de nuestra institución?<br>Click <a href="./team.php">acá</a> para verlos.</p>
             </div>
           </div>
 

@@ -43,25 +43,25 @@
     <div class="container d-flex justify-content-between align-items-center">
 
       <div class="logo">
-        <h1 class="text-light"><a href="index.html"><span> <small style="font-size:12px;"> colegio </small></span>Santa María</a></h1>
+        <h1 class="text-light"><a href="index.php"><span> <small style="font-size:12px;"> colegio </small></span>Santa María</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+        <!-- <a href="index.php"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
 
       <nav id="navbar" class="navbar">
         <ul>
-            <li><a class="active " href="index.html">Home</a></li>
-            <!-- <li><a href="about.html">Institucional</a></li> -->
-            <li><a href="portfolio.html">Comunicados</a></li>
-            <li><a href="about.html">Nuestra Historia</a></li>
-            <!-- <li><a href="team.html">Team</a></li>
-            <li><a href="blog.html">Blog</a></li> -->
+            <li><a class="active " href="index.php">Home</a></li>
+            <!-- <li><a href="about.php">Institucional</a></li> -->
+            <li><a href="portfolio.php">Comunicados</a></li>
+            <li><a href="about.php">Nuestra Historia</a></li>
+            <!-- <li><a href="team.php">Team</a></li>
+            <li><a href="blog.php">Blog</a></li> -->
             <li class="dropdown"><a href="#"><span>Institucional</span> <i class="bi bi-chevron-down"></i></a>
               <ul>
-                <li><a href="ideario-prov.html">Ideario</a></li>
+                <li><a href="ideario-prov.php">Ideario</a></li>
                 <li class="dropdown"><a href="#"><span>Autoridades</span> <i class="bi bi-chevron-right"></i></a>
                   <ul>
-                    <li><a href="team.html">Staff</a></li>
+                    <li><a href="team.php">Staff</a></li>
                     <!-- <li><a href="#">Deep Drop Down 2</a></li>
                     <li><a href="#">Deep Drop Down 3</a></li>
                     <li><a href="#">Deep Drop Down 4</a></li>
@@ -73,7 +73,7 @@
                 <li><a href="#">Drop Down 4</a></li> -->
               </ul>
             </li>
-            <li><a href="contact.html">Contacto</a></li>
+            <li><a href="contact.php">Contacto</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -90,7 +90,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Staff</h2>
           <ol>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.php">Home</a></li>
             <li>Staff</li>
           </ol>
         </div>
@@ -130,7 +130,7 @@
                 <img src="assets/img/team/directora-jardin.png" class="img-fluid" alt="">
                 <div class="social">
                     <!-- <a>fernando.vitullo@csm.obispadozc.org.ar</a> -->
-                    <a href="contact.html"><i class="bi bi-envelope"></i></a>
+                    <a href="contact.php"><i class="bi bi-envelope"></i></a>
       
                 </div>
               </div>
@@ -146,7 +146,7 @@
               <div class="member-img">
                 <img src="assets/img/team/directora-primaria.jpeg" class="img-fluid" alt="">
                 <div class="social">
-                    <a href="contact.html"><i class="bi bi-envelope"></i></a>
+                    <a href="contact.php"><i class="bi bi-envelope"></i></a>
                     <!-- <a>fernando.vitullo@csm.obispadozc.org.ar</a> -->
                   <!-- <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-envelope"></i></a>
@@ -168,7 +168,7 @@
                 <div class="member-img">
                   <img src="assets/img/silueta-mujer-2.png" class="img-fluid" alt="" style="opacity: 0.5;">
                   <div class="social">
-                      <a href="contact.html"><i class="bi bi-envelope"></i></a>
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>
                     <!-- <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
                     <a href=""><i class="bi bi-instagram"></i></a>
@@ -188,7 +188,7 @@
                     <div class="member-img">
                       <img src="assets/img/silueta-mujer-2.png" class="img-fluid" alt="" style="opacity: 0.5;">
                       <div class="social">
-                          <a href="contact.html"><i class="bi bi-envelope"></i></a>
+                          <a href="contact.php"><i class="bi bi-envelope"></i></a>
                         <!-- <a href=""><i class="bi bi-twitter"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
@@ -208,7 +208,7 @@
                 <div class="member-img">
                     <img src="assets/img/team/Captura-vice-pri.PNG" class="img-fluid" alt="">
                   <div class="social">
-                      <a href="contact.html"><i class="bi bi-envelope"></i></a>
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>
                       <!-- <a>fernando.vitullo@csm.obispadozc.org.ar</a> -->
                     <!-- <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-envelope"></i></a>
@@ -228,7 +228,7 @@
                 <div class="member-img">
                   <img src="assets/img/silueta-mujer-2.png" class="img-fluid" alt="" style="opacity: 0.5;">
                   <div class="social">
-                      <a href="contact.html"><i class="bi bi-envelope"></i></a>
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>
                     <!-- <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-facebook"></i></a>
                     <a href=""><i class="bi bi-instagram"></i></a>
@@ -248,7 +248,7 @@
                     <div class="member-img">
                       <img src="assets/img/silueta-mujer-2.png" class="img-fluid" alt="" style="opacity: 0.5;">
                       <div class="social">
-                          <a href="contact.html"><i class="bi bi-envelope"></i></a>
+                          <a href="contact.php"><i class="bi bi-envelope"></i></a>
                         <!-- <a href=""><i class="bi bi-twitter"></i></a>
                         <a href=""><i class="bi bi-facebook"></i></a>
                         <a href=""><i class="bi bi-instagram"></i></a>
@@ -268,7 +268,7 @@
                 <div class="member-img">
                     <img src="assets/img/team/Captura-secretaria-primaria.PNG" class="img-fluid" alt="">
                   <div class="social">
-                      <a href="contact.html"><i class="bi bi-envelope"></i></a>
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>
                       <!-- <a>fernando.vitullo@csm.obispadozc.org.ar</a> -->
                     <!-- <a href=""><i class="bi bi-twitter"></i></a>
                     <a href=""><i class="bi bi-envelope"></i></a>
