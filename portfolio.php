@@ -271,7 +271,7 @@
                 <div>
                   <!-- <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a> -->
                   <!-- <a href="portfolio-details.php" title="ver más"><i class="bx bx-link"></i></a> -->
-                  <a href="https://www.instagram.com/p/CQKNClehHSG/?utm_medium=share_sheet" title="ver más"><i class="bx bx-link"></i></a>
+                  <a href="https://drive.google.com/file/d/1zJ_RCinLd9U1bvbr56JeqFzUOZkyH2y6/view" title="ver más"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
