@@ -6,7 +6,7 @@ $nombre = $_POST['email'];
 echo $nombre;
 
 $json = json_encode($nombre);
-$bytes = file_put_contents("myfile.json", $json); 
+$bytes = file_put_contents("./myfile.json", $json); 
 
 $log_message =  $nombre;
 $logFile = fopen("./log.txt", 'a');
