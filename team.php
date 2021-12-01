@@ -256,7 +256,7 @@
                       </div>
                     </div>
                     <div class="member-info">
-                      <h4>XXXXX</h4>
+                      <h4></h4>
                       <span>Secretaria nivel inicial</span>
                       <!-- <p></p> -->
                     </div>

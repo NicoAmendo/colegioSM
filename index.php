@@ -298,7 +298,7 @@ Durante esta etapa, mediante diversas actividades, buscamos que los jóvenes se 
             <p>Suscribite para recibir las novedades mensuales del colegio</p>
           </div>
           <div class="col-lg-6">
-            <form action="" method="post">
+            <form action="./suscriptores.php" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
           </div>
