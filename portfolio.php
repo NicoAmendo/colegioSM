@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/logo-SM-negro.png" rel="icon">
+  <link href="assets/img/logo-dorado.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -106,7 +106,7 @@
           <div class="col-lg-12">
             <ul id="portfolio-flters">
               <!-- <li data-filter="*" class="filter-active">Todos</li> -->
-              <li data-filter=".filter-general">General</li>
+              <li data-filter=".filter-general" class="filter-active">General</li>
               <li data-filter=".filter-app">Inicial</li>
               <li data-filter=".filter-card">Primaria</li>
               <li data-filter=".filter-web">Secundaria</li>

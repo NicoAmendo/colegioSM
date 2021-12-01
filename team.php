@@ -10,7 +10,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/logo-SM-negro.png" rel="icon">
+  <link href="assets/img/logo-dorado.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -166,7 +166,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img">
-                  <img src="assets/img/silueta-mujer-2.png" class="img-fluid" alt="" style="opacity: 0.5;">
+                  <img src="assets/img/team/Mesa-trabajo-1.png" class="img-fluid" alt="" style="opacity: 0.5;">
                   <div class="social">
                       <a href="contact.php"><i class="bi bi-envelope"></i></a>
                     <!-- <a href=""><i class="bi bi-twitter"></i></a>
