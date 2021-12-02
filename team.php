@@ -113,7 +113,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/Vitullo (1).png" class="img-fluid" alt="">
+                <img src="assets/img/team/Vitullo (1).png" class="img-fluid" alt=""  id="cambiopixeles">
                 <div class="social">
                   <a>fernando.vitullo@csm.obispadozc.org.ar</a>
                   <!-- <a href=""><i class="bi bi-twitter"></i></a>
@@ -133,7 +133,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/Nati Dire Jardín.png" class="img-fluid" alt="">
+                <img src="assets/img/team/Nati Dire Jardín.png" class="img-fluid" alt=""  id="cambiopixeles">
                 <div class="social">
                     <!-- <a>fernando.vitullo@csm.obispadozc.org.ar</a> -->
                     <a href="contact.php"><i class="bi bi-envelope"></i></a>
@@ -150,7 +150,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/Mariela sin fondo.png" class="img-fluid" alt="">
+                <img src="assets/img/team/Mariela sin fondo.png" class="img-fluid" alt=""  id="cambiopixeles">
                 <div class="social">
                     <a href="contact.php"><i class="bi bi-envelope"></i></a>
                     <!-- <a>fernando.vitullo@csm.obispadozc.org.ar</a> -->
@@ -194,7 +194,7 @@
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img">
-                    <img src="assets/img/team/Laura.png" class="img-fluid" alt="">
+                    <img src="assets/img/team/Laura.png" class="img-fluid" alt=""  id="cambiopixeles">
                   <div class="social">
                       <a href="contact.php"><i class="bi bi-envelope"></i></a>
                       <!-- <a>fernando.vitullo@csm.obispadozc.org.ar</a> -->
@@ -214,7 +214,7 @@
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img">
-                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt="">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles">
                   <div class="social">
                       <a href="contact.php"><i class="bi bi-envelope"></i></a>
                     <!-- <a href=""><i class="bi bi-twitter"></i></a>
@@ -234,7 +234,7 @@
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                 <div class="member">
                     <div class="member-img">
-                      <img src="assets/img/team/VD Jardín.png" class="img-fluid" alt="">
+                      <img src="assets/img/team/VD Jardín.png" class="img-fluid" alt=""  id="cambiopixeles">
                       <div class="social">
                           <a href="contact.php"><i class="bi bi-envelope"></i></a>
                         <!-- <a href=""><i class="bi bi-twitter"></i></a>
@@ -254,7 +254,7 @@
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img">
-                    <img src="assets/img/team/Secre primaria.png" class="img-fluid" alt="">
+                    <img src="assets/img/team/Secre primaria.png" class="img-fluid" alt=""  id="cambiopixeles">
                   <div class="social">
                       <a href="contact.php"><i class="bi bi-envelope"></i></a>
                       <!-- <a>fernando.vitullo@csm.obispadozc.org.ar</a> -->
@@ -274,7 +274,7 @@
          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/perfil varón.png" class="img-fluid" alt="">
+                <img src="assets/img/team/perfil varón.png" class="img-fluid" alt=""  id="cambiopixeles">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
