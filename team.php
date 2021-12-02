@@ -107,7 +107,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/director-general.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/team/Vitullo (1).png" class="img-fluid" alt="">
                 <div class="social">
                   <a>fernando.vitullo@csm.obispadozc.org.ar</a>
                   <!-- <a href=""><i class="bi bi-twitter"></i></a>
@@ -127,7 +127,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/directora-jardin.png" class="img-fluid" alt="">
+                <img src="assets/img/team/Nati Dire Jardín.png" class="img-fluid" alt="">
                 <div class="social">
                     <!-- <a>fernando.vitullo@csm.obispadozc.org.ar</a> -->
                     <a href="contact.php"><i class="bi bi-envelope"></i></a>
@@ -144,7 +144,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/directora-primaria.jpeg" class="img-fluid" alt="">
+                <img src="assets/img/team/Mariela sin fondo.png" class="img-fluid" alt="">
                 <div class="social">
                     <a href="contact.php"><i class="bi bi-envelope"></i></a>
                     <!-- <a>fernando.vitullo@csm.obispadozc.org.ar</a> -->
@@ -166,7 +166,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img">
-                  <img src="assets/img/team/Mesa-trabajo-1.png" class="img-fluid" alt="" style="opacity: 0.5;">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt="" style="opacity: 0.5;">
                   <div class="social">
                       <a href="contact.php"><i class="bi bi-envelope"></i></a>
                     <!-- <a href=""><i class="bi bi-twitter"></i></a>
@@ -183,30 +183,12 @@
               </div>
             </div>
   
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
-                <div class="member">
-                    <div class="member-img">
-                      <img src="assets/img/silueta-mujer-2.png" class="img-fluid" alt="" style="opacity: 0.5;">
-                      <div class="social">
-                          <a href="contact.php"><i class="bi bi-envelope"></i></a>
-                        <!-- <a href=""><i class="bi bi-twitter"></i></a>
-                        <a href=""><i class="bi bi-facebook"></i></a>
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-linkedin"></i></a> -->
-                      </div>
-                    </div>
-                    <div class="member-info">
-                      <h4>XXXXX</h4>
-                      <span>Vicedirectora nivel inicial</span>
-                      <!-- <p></p> -->
-                    </div>
-                  </div>
-            </div>
+            
   
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img">
-                    <img src="assets/img/team/Captura-vice-pri.PNG" class="img-fluid" alt="">
+                    <img src="assets/img/team/Laura.png" class="img-fluid" alt="">
                   <div class="social">
                       <a href="contact.php"><i class="bi bi-envelope"></i></a>
                       <!-- <a>fernando.vitullo@csm.obispadozc.org.ar</a> -->
@@ -226,7 +208,7 @@
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img">
-                  <img src="assets/img/silueta-mujer-2.png" class="img-fluid" alt="" style="opacity: 0.5;">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt="" style="opacity: 0.5;">
                   <div class="social">
                       <a href="contact.php"><i class="bi bi-envelope"></i></a>
                     <!-- <a href=""><i class="bi bi-twitter"></i></a>
@@ -246,7 +228,7 @@
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                 <div class="member">
                     <div class="member-img">
-                      <img src="assets/img/silueta-mujer-2.png" class="img-fluid" alt="" style="opacity: 0.5;">
+                      <img src="assets/img/VD Jardín.png" class="img-fluid" alt="" style="opacity: 0.5;">
                       <div class="social">
                           <a href="contact.php"><i class="bi bi-envelope"></i></a>
                         <!-- <a href=""><i class="bi bi-twitter"></i></a>
@@ -266,7 +248,7 @@
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img">
-                    <img src="assets/img/team/Captura-secretaria-primaria.PNG" class="img-fluid" alt="">
+                    <img src="assets/img/team/Secre primaria.png" class="img-fluid" alt="">
                   <div class="social">
                       <a href="contact.php"><i class="bi bi-envelope"></i></a>
                       <!-- <a>fernando.vitullo@csm.obispadozc.org.ar</a> -->
@@ -283,10 +265,10 @@
               </div>
             </div>
   
-          <!-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+         <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+                <img src="assets/img/team/perfil varón.png" class="img-fluid" alt="">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -295,13 +277,13 @@
                 </div>
               </div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Accountant</span>
-                <p>Sint qui cupiditate. Asperiores fugit impedit aspernatur et mollitia. Molestiae qui placeat labore assumenda id qui nesciunt quo reprehenderit. Rem dolores similique quis soluta culpa enim quia ratione ea.</p>
+                <h4>Docente</h4>
+                <span>docente</span>
+                <!-- <p>Sint qui cupiditate. Asperiores fugit impedit aspernatur et mollitia. Molestiae qui placeat labore assumenda id qui nesciunt quo reprehenderit. Rem dolores similique quis soluta culpa enim quia ratione ea.</p> -->
               </div>
             </div>
           </div>
-
+  <!--
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="member">
               <div class="member-img">
