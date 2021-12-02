@@ -37,7 +37,13 @@
 </head>
 
 <body>
+<style>
+#cambiopixeles{
+    max-width: 400px;
+    height: 300px;
 
+}
+</style>
   <!-- ======= Header ======= -->
   <header id="header" class="fixed-top d-flex align-items-center ">
     <div class="container d-flex justify-content-between align-items-center">
@@ -166,7 +172,7 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img">
-                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt="" style="opacity: 0.5;">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt="" id="cambiopixeles">
                   <div class="social">
                       <a href="contact.php"><i class="bi bi-envelope"></i></a>
                     <!-- <a href=""><i class="bi bi-twitter"></i></a>
@@ -208,7 +214,7 @@
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
               <div class="member">
                 <div class="member-img">
-                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt="" style="opacity: 0.5;">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt="">
                   <div class="social">
                       <a href="contact.php"><i class="bi bi-envelope"></i></a>
                     <!-- <a href=""><i class="bi bi-twitter"></i></a>
@@ -228,7 +234,7 @@
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
                 <div class="member">
                     <div class="member-img">
-                      <img src="assets/img/VD Jardín.png" class="img-fluid" alt="" style="opacity: 0.5;">
+                      <img src="assets/img/team/VD Jardín.png" class="img-fluid" alt="">
                       <div class="social">
                           <a href="contact.php"><i class="bi bi-envelope"></i></a>
                         <!-- <a href=""><i class="bi bi-twitter"></i></a>
