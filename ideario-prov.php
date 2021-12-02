@@ -73,7 +73,7 @@ background: linear-gradient(123deg, #4b6978c4 6.28%, #4b697873 92.65%);
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="" href="index.html">Home</a></li>
-          <li><a class="active " href="index.html">Home</a></li>
+          <!-- <li><a class="active " href="index.html">Home</a></li> -->
           <!-- <li><a href="about.html">Institucional</a></li> -->
           <li><a href="portfolio.html">Comunicados</a></li>
           <li><a href="about.html">Nuestra Historia</a></li>
@@ -156,8 +156,8 @@ background: linear-gradient(123deg, #4b6978c4 6.28%, #4b697873 92.65%);
             <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
               <div class="card">
                <div class="card-img">
-                  <img src="assets/img/cruz-fondo-ideario.jfif" alt="...">
-                </div> -->
+               <img src="assets/img/Familia.jpg" alt="..." style="border-radius: 10px;">
+                </div>
                 <div class="card-body">
                   <h5 class="card-title"><a href="#">Relación familia-escuela</a></h5>
                   <p class="card-text">Nuestra institución propone al desarrollo de un sentido de pertenencia hacia la institución, integrando a las familias en diferentes actividades y propuestas en un marco de respeto y unión, generando espacios de participación en los Acuerdos Institucionales de Convivencia sobre la base de valores cristianos y democráticos. Nuestra propuesta implica el compromiso de acompañar a las familias tanto en aspectos pedagógicos y legales como emocionales y espirituales.</p>
@@ -172,7 +172,7 @@ background: linear-gradient(123deg, #4b6978c4 6.28%, #4b697873 92.65%);
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
                     magna aliqua.
                   </p> -->
-                  <ul style="list-style: none;">
+                  <ul style="list-style: none; line-height: 1.8rem;">
                     <li><i class="bi bi-check2-circle"></i> Desarrolle saberes, habilidades y competencias acordes al mundo global, que le permitan integrarse al mundo del trabajo, transformar la realidad y seguir aprendiendo durante toda la vida.</li>
                     <li><i class="bi bi-check2-circle"></i> Sea capaz de crecer en libertad, desarrollar su iniciativa y creatividad, buscar soluciones a los problemas, desafíos y conflictos y tomar decisiones coherentes.</li>
                     <li><i class="bi bi-check2-circle"></i> Desarrolle paulatinamente su capacidad para aprender a aprender, aprender a conocer, a hacer, a convivir, a valorar y a ser, transformando su realidad y la de otros.</li>
@@ -273,7 +273,7 @@ background: linear-gradient(123deg, #4b6978c4 6.28%, #4b697873 92.65%);
             <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
               <div class="card">
                 <div class="card-img">
-                  <img src="assets/img/entrenar-solidaridad-t.jpg" alt="...">
+                  <img src="assets/img/entrenar-solidaridad-t.jpg" alt="..." style="border-radius: 10px;">
                 </div>
                 <div class="card-body">
                   <h5 class="card-title"><a href="#">Alcance</a></h5>
