@@ -911,7 +911,8 @@
                   <p>Soy profesora de Inglés.</p>
                 </div>
               </div>
-            </div>  <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
+            </div>  
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
               <div class="member">
                 <div class="member-img">
                   <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
@@ -922,9 +923,11 @@
                 <div class="member-info">
                   <h4>Valentina Benseñy</h4>
                   <span>Profesora nivel primario</span>
-                  <p>Soy profesora de Inglés.</p>                </div>
+                  <p>Soy profesora de Inglés.</p>                
+                </div>
               </div>
-            </div>  <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
+            </div>  
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
               <div class="member">
                 <div class="member-img">
                   <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
@@ -935,9 +938,11 @@
                 <div class="member-info">
                   <h4>Juana Perez Yañez</h4>
                   <span>Profesora nivel primario</span>
-                  <p>Soy profesora de Inglés.</p>                </div>
+                  <p>Soy profesora de Inglés.</p>                
+                </div>
               </div>
-            </div>  <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
+            </div>  
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
               <div class="member">
                 <div class="member-img">
                   <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
@@ -948,9 +953,11 @@
                 <div class="member-info">
                   <h4>Jimena Rinaldi</h4>
                   <span>Profesora nivel primario</span>
-                  <p>Soy profesora de Inglés.</p>                </div>
+                  <p>Soy profesora de Inglés.</p>                
+                </div>
               </div>
-            </div>  <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
+            </div>  
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
               <div class="member">
                 <div class="member-img">
                   <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
@@ -964,7 +971,8 @@
                   <p>Soy profesora de Educación Física.</p>
                 </div>
               </div>
-            </div>  <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
+            </div>  
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
               <div class="member">
                 <div class="member-img">
                   <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
@@ -978,7 +986,8 @@
                   <p>Soy profesora de Catequesis.</p>
                 </div>
               </div>
-            </div>  <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
+            </div>  
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
               <div class="member">
                 <div class="member-img">
                   <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
@@ -992,7 +1001,8 @@
                   <p>Soy profesora de Catequesis.</p>
                 </div>
               </div>
-            </div>  <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
+            </div>  
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
               <div class="member">
                 <div class="member-img">
                   <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
@@ -1006,7 +1016,8 @@
                   <p>Soy profesora de artes visuales.</p>
                 </div>
               </div>
-            </div>  <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
+            </div> 
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
               <div class="member">
                 <div class="member-img">
                   <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
@@ -1020,7 +1031,8 @@
                   <p>Soy profesora de artes visuales.</p>
                 </div>
               </div>
-            </div>  <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
+              </div>
+      <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
               <div class="member">
                 <div class="member-img">
                   <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
@@ -1035,7 +1047,7 @@
                 </div>
               </div>
             </div>
-            </div>  <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
+           <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
               <div class="member">
                 <div class="member-img">
                   <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
@@ -1050,7 +1062,7 @@
                 </div>
               </div>
             </div>
-            </div>  <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
+           <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
               <div class="member">
                 <div class="member-img">
                   <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
