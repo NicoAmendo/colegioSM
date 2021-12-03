@@ -108,9 +108,25 @@
     <section class="team" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
       <div class="container">
 
-        <div class="row">
+      <section class="portfolio">
+          <div class="container">
+    
+            <div class="row">
+              <div class="col-lg-12">
+                <ul id="portfolio-flters">
+                  <li data-filter="*" class="filter-active">Todos</li>
+                  <!-- <li data-filter=".filter-general">Staff completo</li> -->
+                  <li data-filter=".filter-app">Inicial</li>
+                  <li data-filter=".filter-card">Primaria</li>
+                  <li data-filter=".filter-web">Secundaria</li>
+                </ul>
+              </div>
+            </div>
+    
+            <div class="row portfolio-container" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
+    
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch portfolio-wrap filter-app">
             <div class="member">
               <div class="member-img">
                 <img src="assets/img/team/Vitullo (1).png" class="img-fluid" alt=""  id="cambiopixeles">
@@ -130,7 +146,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch portfolio-wrap filter-app">
             <div class="member">
               <div class="member-img">
                 <img src="assets/img/team/Nati Dire Jardín.png" class="img-fluid" alt=""  id="cambiopixeles">
@@ -147,7 +163,7 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch portfolio-wrap filter-card">
             <div class="member">
               <div class="member-img">
                 <img src="assets/img/team/Mariela sin fondo.png" class="img-fluid" alt=""  id="cambiopixeles">
@@ -169,7 +185,7 @@
 
 
           
-          <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+          <div class="col-lg-4 col-md-6 d-flex align-items-stretch portfolio-wrap filter-web">
               <div class="member">
                 <div class="member-img">
                   <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt="" id="cambiopixeles">
@@ -191,7 +207,7 @@
   
             
   
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch portfolio-wrap filter-card">
               <div class="member">
                 <div class="member-img">
                     <img src="assets/img/team/Laura.png" class="img-fluid" alt=""  id="cambiopixeles">
@@ -211,7 +227,7 @@
               </div>
             </div>
 
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch portfolio-wrap filter-web">
               <div class="member">
                 <div class="member-img">
                   <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles">
@@ -231,7 +247,7 @@
               </div>
             </div>
   
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch portfolio-wrap filter-app">
                 <div class="member">
                     <div class="member-img">
                       <img src="assets/img/team/VD Jardín.png" class="img-fluid" alt=""  id="cambiopixeles">
@@ -244,14 +260,14 @@
                       </div>
                     </div>
                     <div class="member-info">
-                      <h4></h4>
+                      <h4>Silvia Elisabeth Maetta</h4>
                       <span>Secretaria nivel inicial</span>
                       <!-- <p></p> -->
                     </div>
                   </div>
             </div>
   
-            <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch portfolio-wrap filter-card">
               <div class="member">
                 <div class="member-img">
                     <img src="assets/img/team/Secre primaria.png" class="img-fluid" alt=""  id="cambiopixeles">
@@ -270,8 +286,28 @@
                 </div>
               </div>
             </div>
+
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>
+                    <!-- <a href=""><i class="bi bi-twitter"></i></a>
+                    <a href=""><i class="bi bi-facebook"></i></a>
+                    <a href=""><i class="bi bi-instagram"></i></a>
+                    <a href=""><i class="bi bi-linkedin"></i></a> -->
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Ma.Victoria Di Giamma</h4>
+                  <span>secretaria nivel secundario</span>
+                  <!-- <p></p> -->
+                </div>
+              </div>
+            </div>
   
-         <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+         <div class="col-lg-4 col-md-6 d-flex align-items-stretch portfolio-wrap filter-web">
             <div class="member">
               <div class="member-img">
                 <img src="assets/img/team/perfil varón.png" class="img-fluid" alt=""  id="cambiopixeles">
@@ -329,6 +365,10 @@
           </div> -->
 
         </div>
+
+        </div>
+        </section><!--End portfolio filter --->
+
 
       </div>
     </section><!-- End Team Section -->
