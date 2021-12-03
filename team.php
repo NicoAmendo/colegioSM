@@ -132,7 +132,7 @@
               <div class="member-img">
                 <img src="assets/img/team/Vitullo (1).png" class="img-fluid" alt=""  id="cambiopixeles">
                 <div class="social">
-                  <a>fernando.vitullo@csm.obispadozc.org.ar</a>
+                <a href="contact.php"><i class="bi bi-envelope"></i></a>      
                   <!-- <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
                   <a href=""><i class="bi bi-instagram"></i></a>
@@ -307,6 +307,280 @@
                 </div>
               </div>
             </div>
+
+
+            <!-- teacher inicial level -->
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Luciana Ester Gutierrez</h4>
+                  <span>Maestra nivel inicial</span>
+                  <p>Soy maestra de 3ª Sección "A" del turno mañana.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Flavia Lorena Seitz</h4>
+                  <span>Maestra nivel inicial</span>
+                  <p>Soy maestra de 3ª Sección "B" del turno tarde.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Laura Noemí Acevedo</h4>
+                  <span>Maestra nivel inicial</span>
+                  <p>Soy maestra de 2ª Sección "A" del turno nañana.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Nahir Elizabeth Sueldo</h4>
+                  <span>Maestra nivel inicial</span>
+                  <p>Soy maestra de 2ª Sección "B" del turno tarde.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Sandra C. Midori Takakura</h4>
+                  <span>Maestra nivel inicial</span>
+                  <p>Soy maestra de 1ª sección “A” del turno mañana.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Marcela Victoria Tarchini</h4>
+                  <span>Preceptora nivel inicial</span>
+                  <p>Soy preceptora del turno mañana.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Cintia Melisa Rosada</h4>
+                  <span>Preceptora nivel inicial</span>
+                  <p>Soy preceptora del turno mañana.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Angela Edith Graham</h4>
+                  <span>Preceptora nivel inicial</span>
+                  <p>Soy preceptora del turno tarde.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Silvia Liliana Romano</h4>
+                  <span>Preceptora nivel inicial</span>
+                  <p>Soy preceptora del turno tarde.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Alejandra Soledad Mareco</h4>
+                  <span>Maestra nivel inicial</span>
+                  <p>Soy la maestra de Música del turno mañana.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Florencia Soledad Rios</h4>
+                  <span>Maestra nivel inicial</span>
+                  <p>Soy la maestra de Música del turno tarde.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Magali Yapura</h4>
+                  <span>Profesora nivel inicial</span>
+                  <p>Soy prof. de Ed. Física del turno mañana y tarde.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Marisa Olga Priotti</h4>
+                  <span>Profesora nivel inicial</span>
+                  <p>Soy prof. de teatro y catequesis del turno mañana.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Patricia Isabel Maidana</h4>
+                  <span>Personal nivel inicial</span>
+                  <p>Soy Auxiliar Recepcionista.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Paula Lucila Cerverizzo</h4>
+                  <span>Personal nivel inicial</span>
+                  <p>Soy Auxiliar de Maestranza.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Paula Lucila Cerverizzo</h4>
+                  <span>Personal nivel inicial</span>
+                  <p>Soy Auxiliar de Maestranza.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Miriam Isabel Yapura</h4>
+                  <span>Personal nivel inicial</span>
+                  <p>Soy Auxiliar de Maestranza.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>María del Carmen Peña</h4>
+                  <span>Personal nivel inicial</span>
+                  <p>Soy Auxiliar de Maestranza Suplente.</p>
+                </div>
+              </div>
+            </div>
+            <!-- end teacher inicial level -->
   
          <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
             <div class="member">
