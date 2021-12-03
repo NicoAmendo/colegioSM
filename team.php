@@ -1216,12 +1216,11 @@
 
         </div>
 
+        
         </div>
-        </section><!--End portfolio filter --->
-
-
-      </div>
-    </section><!-- End Team Section -->
+        </section> <!--End portfolio filter --->
+    </div>
+  </section><!-- End Team Section -->
 
   </main><!-- End #main -->
 

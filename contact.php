@@ -171,6 +171,63 @@
       </div>
     </section><!-- End Map Section -->
 
+    <style>
+      .qr-desktop{
+        position: fixed;
+        top:20%;
+        right:2%;
+        padding: 12px 12px 30px;
+        text-align: center;
+        width: 180px;
+        height: 200px;
+        background: #FFFFFF;
+        border-radius: 14px;
+        box-shadow: 3px 3px 10px #89837F;
+        z-index: 100;
+        color: #231D19;
+        font-size: 0.75rem;
+    }
+    .qr-desktop img{
+        width: 130px;
+        height: 130px;
+    }
+    .cta-box-fixed{
+        display: none !important;
+    }
+
+    @media screen and (max-width: 767px) {
+      .qr-desktop{
+        display: none !important;
+    }
+    .cta-box-fixed{
+        display: block;
+        position: fixed;
+        bottom:2px;
+        text-align: center;
+        height: 90px;
+        background: #FFFFFF;
+        border-radius: 3px;
+        box-shadow: 3px 3px 10px #89837F;
+        z-index: 100;
+        color: #231D19;
+        font-size: 1rem;
+    }
+    .cta-box-fixed p{
+        margin-bottom: 0.25rem;
+        
+
+    }
+    }
+
+    </style>
+    <div class="qr-desktop" data-aos="fade-down" data-aos-delay="500">
+      <img  class="mx-auto" src="./assets/img/qrcode_5782565_.png" alt="Escaneá el QR">
+      <p class="pt-2">¡Escaneá el QR para escribirnos!</p>
+    </div>
+    <div class="row col-12 cta-box-fixed" data-aos="fade-up">
+      <p class="pt-2">Escribinos al whatsapp</p>
+      <button class="btn btn-primary btn-whatsapp col-10 mb-5 mx-auto" href="https://api.whatsapp.com/send?phone=5491154692000&text=Hola!"></span>Abrir en WhatsApp</button>
+    </div>
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
