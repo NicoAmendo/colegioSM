@@ -1095,7 +1095,7 @@
                 </div>
               </div>
             </div>
-            </div>  <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
               <div class="member">
                 <div class="member-img">
                   <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
@@ -1110,7 +1110,7 @@
                 </div>
               </div>
             </div>
-            </div>  <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
               <div class="member">
                 <div class="member-img">
                   <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
@@ -1125,7 +1125,7 @@
                 </div>
               </div>
             </div>
-            </div>  <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
+        <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
               <div class="member">
                 <div class="member-img">
                   <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
@@ -1140,7 +1140,7 @@
                 </div>
               </div>
             </div>
-            </div>  <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
               <div class="member">
                 <div class="member-img">
                   <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
