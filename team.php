@@ -189,7 +189,7 @@
           <div class="col-lg-4 col-md-6  portfolio-wrap filter-web">
               <div class="member">
                 <div class="member-img">
-                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt="" id="cambiopixeles">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt="" id="cambiopixeles" style="margin-left:40px;">
                   <div class="social">
                       <a href="contact.php"><i class="bi bi-envelope"></i></a>
                     <!-- <a href=""><i class="bi bi-twitter"></i></a>
@@ -231,7 +231,7 @@
             <div class="col-lg-4 col-md-6  portfolio-wrap filter-web">
               <div class="member">
                 <div class="member-img">
-                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
                   <div class="social">
                       <a href="contact.php"><i class="bi bi-envelope"></i></a>
                     <!-- <a href=""><i class="bi bi-twitter"></i></a>
@@ -291,7 +291,7 @@
             <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
               <div class="member">
                 <div class="member-img">
-                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
                   <div class="social">
                       <a href="contact.php"><i class="bi bi-envelope"></i></a>
                     <!-- <a href=""><i class="bi bi-twitter"></i></a>
@@ -311,7 +311,7 @@
          <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
             <div class="member">
               <div class="member-img">
-                <img src="assets/img/team/perfil varón.png" class="img-fluid" alt=""  id="cambiopixeles">
+                <img src="assets/img/team/perfil varón.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
