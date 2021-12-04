@@ -115,7 +115,7 @@
               <div class="col-lg-12">
                 <ul id="portfolio-flters">
                   <li data-filter="*" class="filter-active">Todos</li>
-                  <!-- <li data-filter=".filter-general">Staff completo</li> -->
+                  <li data-filter=".filter-general" hidden>oculto</li>
                   <li data-filter=".filter-app">Inicial</li>
                   <li data-filter=".filter-card">Primaria</li>
                   <li data-filter=".filter-web">Secundaria</li>
@@ -127,7 +127,7 @@
     
 
           <!-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch portfolio-wrap filter-app"> -->
-          <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">  
+          <div class="col-lg-4 col-md-6 portfolio-wrap filter-general">  
           <div class="member">
               <div class="member-img">
                 <img src="assets/img/team/Vitullo (1).png" class="img-fluid" alt=""  id="cambiopixeles">
@@ -146,23 +146,7 @@
               </div>
             </div>
           </div>
-
-          <div class="col-lg-4 col-md-6  portfolio-wrap filter-app">
-            <div class="member">
-              <div class="member-img">
-                <img src="assets/img/team/Nati Dire Jardín.png" class="img-fluid" alt=""  id="cambiopixeles">
-                <div class="social">
-                    <!-- <a>fernando.vitullo@csm.obispadozc.org.ar</a> -->
-                    <a href="contact.php"><i class="bi bi-envelope"></i></a>
-      
-                </div>
-              </div>
-              <div class="member-info">
-                <h4>Natalia Morale </h4>
-                <span>Directora nivel Inicial</span>
-              </div>
-            </div>
-          </div>
+        
 
           <div class="col-lg-4 col-md-6  portfolio-wrap filter-card">
             <div class="member">
@@ -247,26 +231,25 @@
                 </div>
               </div>
             </div>
-  
-            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
-                <div class="member">
-                    <div class="member-img">
-                      <img src="assets/img/team/VD Jardín.png" class="img-fluid" alt=""  id="cambiopixeles">
-                      <div class="social">
-                          <a href="contact.php"><i class="bi bi-envelope"></i></a>
-                        <!-- <a href=""><i class="bi bi-twitter"></i></a>
-                        <a href=""><i class="bi bi-facebook"></i></a>
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-linkedin"></i></a> -->
-                      </div>
-                    </div>
-                    <div class="member-info">
-                      <h4>Silvia Elisabeth Maetta</h4>
-                      <span>Secretaria nivel inicial</span>
-                      <!-- <p></p> -->
-                    </div>
-                  </div>
+             
+            <div class="col-lg-4 col-md-6  portfolio-wrap filter-app">
+            <div class="member">
+              <div class="member-img">
+                <img src="assets/img/team/Nati Dire Jardín.png" class="img-fluid" alt=""  id="cambiopixeles">
+                <div class="social">
+                    <!-- <a>fernando.vitullo@csm.obispadozc.org.ar</a> -->
+                    <a href="contact.php"><i class="bi bi-envelope"></i></a>
+      
+                </div>
+              </div>
+              <div class="member-info">
+                <h4>Natalia Morale </h4>
+                <span>Directora nivel Inicial</span>
+              </div>
             </div>
+          </div>
+  
+            
   
             <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
               <div class="member">
@@ -309,7 +292,27 @@
             </div>
 
 
+
             <!-- teacher inicial level -->
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
+                <div class="member">
+                    <div class="member-img">
+                      <img src="assets/img/team/VD Jardín.png" class="img-fluid" alt=""  id="cambiopixeles">
+                      <div class="social">
+                          <a href="contact.php"><i class="bi bi-envelope"></i></a>
+                        <!-- <a href=""><i class="bi bi-twitter"></i></a>
+                        <a href=""><i class="bi bi-facebook"></i></a>
+                        <a href=""><i class="bi bi-instagram"></i></a>
+                        <a href=""><i class="bi bi-linkedin"></i></a> -->
+                      </div>
+                    </div>
+                    <div class="member-info">
+                      <h4>Silvia Elisabeth Maetta</h4>
+                      <span>Secretaria nivel inicial</span>
+                      <!-- <p></p> -->
+                    </div>
+                  </div>
+            </div>
             <div class="col-lg-4 col-md-6 portfolio-wrap filter-app">
               <div class="member">
                 <div class="member-img">
@@ -597,21 +600,7 @@
                 </div>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
-              <div class="member">
-                <div class="member-img">
-                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
-                  <div class="social">
-                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
-                  </div>
-                </div>
-                <div class="member-info">
-                  <h4>Jorgelina Sotelo</h4>
-                  <span>Prosecretaria nivel primario</span>
-                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
-                </div>
-              </div>
-            </div>
+            
             <div class="col-lg-4 col-md-6 portfolio-wrap filter-card">
               <div class="member">
                 <div class="member-img">
@@ -1169,7 +1158,1039 @@
             </div>
           <!-- end teacher primary level -->
           <!--start teachers hight school -->
-
+          <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Aguilar Natalia</h4>
+                  <span>Preceptora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Sandra Ahumada</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Victoria Arias </h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil varón.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Alejandro Asarchuk</h4>
+                  <span>Profesor nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Claudia C. Bareiro Vidallet</h4>
+                  <span>Preceptora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Karina Benitez</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Valentina Benseñy</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Milena Blois</h4>
+                  <span>Preceptora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Antonela Bortolazzo</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil varón.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Franco Briglia</h4>
+                  <span>Profesor nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Ricardo Cerrone</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Claudia Cervone</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Fernando Cobiella</h4>
+                  <span>Profesor nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Ma. Julieta Corigliano</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div><div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil varón.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Pablo Coto</h4>
+                  <span>Preceptor nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil varón.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Andrés Cruz</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Anabel Demarchi</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Cinthia Despoux</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>       <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Miriam Dupleix</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>M. Fernanda Elicagaray</h4>
+                  <span>Preceptora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Marisa Espinillo</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Silvia Ferrari</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Vivian Ferrari</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil varón.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Agustín Gallo</h4>
+                  <span>Profesor nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Leonela Galvan</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>       <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Rosana Estela Giménez</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Analía Golot</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Araceli Gonzalez Vera</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Marta Elizabeth Ibañez</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Florencia Labayén</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Franco Liporace</h4>
+                  <span>Profesor nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Mayra Melesz</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Patricia E. Minicucci</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Ilsa Edith Moran</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Carla Moura</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Jennifer Muñoz Pennisi</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Ma. Alejandra Ojeda</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil varón.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Carlos Oviedo</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Eliana Pan</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Facundo Patiño</h4>
+                  <span>Profesor nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Luciana Lorena Perez</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Aldana Pereira</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Sonia Pereyra</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Juana Perez Yañez</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Ayelen Piedrabuena</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Estela Quiroga</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil varón.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Juan Ramón Recalde</h4>
+                  <span>Profesor nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Ivanna Belén Riguresma</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Analia Rios</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil varón.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Matias Rodriguez </h4>
+                  <span>Profesor nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Graciela Salcedo</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Ivana Salgado</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Vanina Salgado</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Gabriela Santucho</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Mariano Scotto</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil varón.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Mariano Scotto</h4>
+                  <span>Profesor nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Patricia Stinco</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Lisset Coromoto Suarez</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Norma Torres</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Valeria Torres</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Patricia Torres</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Eliana Vazquez</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Carla Vidigt</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Debora Natalia Wildemar</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil varón.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Alejo Moreno Baez</h4>
+                  <span>Profesor nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Constanza Torrilla</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Pamela Fernandez</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Victoria Graniera</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6 portfolio-wrap filter-web">
+              <div class="member">
+                <div class="member-img">
+                  <img src="assets/img/team/perfil mujer.png" class="img-fluid" alt=""  id="cambiopixeles" style="margin-left:40px;">
+                  <div class="social">
+                      <a href="contact.php"><i class="bi bi-envelope"></i></a>        
+                  </div>
+                </div>
+                <div class="member-info">
+                  <h4>Micaela Gonzalez</h4>
+                  <span>Profesora nivel secundario</span>
+                  <!-- <p>Soy Auxiliar de Maestranza Suplente.</p> -->
+                </div>
+              </div>
+            </div>
+      
 
           
           <!--end teachers hight school -->
