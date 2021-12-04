@@ -61,7 +61,7 @@
                 <li><a href="ideario-prov.php">Ideario</a></li>
                 <li class="dropdown"><a href="#"><span>Autoridades</span> <i class="bi bi-chevron-right"></i></a>
                   <ul>
-                    <li><a href="team.php">Staff docente</a></li>
+                    <li><a href="team.php">staff</a></li>
                     <!-- <li><a href="#">Deep Drop Down 2</a></li>
                     <li><a href="#">Deep Drop Down 3</a></li>
                     <li><a href="#">Deep Drop Down 4</a></li>

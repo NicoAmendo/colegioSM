@@ -116,10 +116,10 @@
               </div>
               <div class="col-md-6">
                 <div class="info-box">
-                  <i class="bi bi-whatsapp"></i>
-                  <h3>Escribinos por whatsapp</h3>
-                  <!-- <p>+1 5589 55488 55<br>+1 6678 254445 41</p> -->
-                  <p><a href="#">11 5469 2000</a></p>
+                  <i class="bx bx-envelope"></i>
+                  <h3>Escribinos por correo</h3>
+                  <p>+1 5589 55488 55<br>+1 6678 254445 41</p>
+                  <!-- <p><a href="#">11 5469 2000</a></p> -->
                 </div>
               </div>
               <div class="col-md-6">
